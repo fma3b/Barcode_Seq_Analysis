@@ -1,6 +1,6 @@
 # Barcode_seq-Analysis
 
-# Post-sequencing functional analysis of synthetic UPTAG DNA barcodes of S. cerevisiae heterozygous and homozygous mutants.
+# Post-sequencing functional analysis of synthetic UPTAG DNA barcodes of Saccharomyces cerevisiae heterozygous and homozygous mutants.
 
 #Experimental design: For heterozygous deletion pool that represents Essential genes, there are 4 replicates of E_SH1009 (Treatment), 4 replicates of E_MMS (Positive control), 4 replicates of E_DMSO (Negative control). For homozygous deletion pool that represents Non-essential genes, there are 4 replicates of NON_SH1009 (Treatment), 4 replicates of NON_MMS (Positive control), 4 replicates of NON_DMSO (Negative control). 
 
